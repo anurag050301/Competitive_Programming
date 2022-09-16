@@ -1,3 +1,11 @@
+/* A string of paranthesis is given, fin the index from where the order is incorrect, if the order is correct the return working.If not then
+return position of incorrect bracket
+examples:
+string="{[([])]}"
+output="Working"
+string="]{[[()]]}"
+output=1*/
+
 #include <iostream>
 #include <stack>
 using namespace std;
