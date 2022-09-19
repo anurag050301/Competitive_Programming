@@ -1,3 +1,4 @@
+//Average Number problem CodeChef, Code-AVG.
 #include <iostream>
 using namespace std;
 int main()
