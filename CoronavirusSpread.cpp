@@ -1,4 +1,4 @@
-// problem: Coronavirus Spread, code: MAY20
+// problem: Coronavirus Spread, code: COVID19
 #include <iostream>
 #include <vector>
 #include <string.h>
